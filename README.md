@@ -30,3 +30,8 @@
  * DISPLAY "The decimal equivalent is: " DECIMAL-RESULT
 6. Stop Program:
  * STOP RUN
+
+## Screen Shot
+![binToDec](https://github.com/user-attachments/assets/65a579a2-cc92-4897-b179-4949a62eaa43)
+
+
